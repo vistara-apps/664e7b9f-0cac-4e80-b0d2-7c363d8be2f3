@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Ship & Earn Guild",
+    "subtitle": "Built with Zara",
+    "description": "Ship & Earn Guild is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://664e7b9f0cac4e80b0d27c363d8be2f3-fize.vercel.app",
+    "splashImageUrl": "https://664e7b9f0cac4e80b0d27c363d8be2f3-fize.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://664e7b9f0cac4e80b0d27c363d8be2f3-fize.vercel.app/image.png",
+    "tagline": "Ship & Earn Guild",
+    "screenshotUrls": [
+      "https://664e7b9f0cac4e80b0d27c363d8be2f3-fize.vercel.app/screenshot.png",
+      "https://664e7b9f0cac4e80b0d27c363d8be2f3-fize.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://664e7b9f0cac4e80b0d27c363d8be2f3-fize.vercel.app/api/webhook"
+  }
+}
