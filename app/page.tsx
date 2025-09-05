@@ -61,7 +61,7 @@ export default function HomePage() {
   }
 
   const completedDeliveries = mockData.deliveryRequests.filter(d => d.status === 'completed').length;
-  const activeDeliveries = mockData.deliveryRequests.filter(d => d.status === 'in_progress' || d.status === 'accepted').length;
+  const activeDeliveries = mockData.deliveryRequests.filter(d => d.status === 'accepted').length;
   const totalRevenue = mockData.deliveryRequests
     .filter(d => d.status === 'completed')
     .reduce((sum, d) => sum + d.offeredBountyUSD, 0);
