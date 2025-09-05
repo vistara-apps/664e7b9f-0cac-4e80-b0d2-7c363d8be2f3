@@ -8,6 +8,7 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'Ship & Earn Guild',
   description: 'On-demand deliveries, on-chain rewards.',
+  metadataBase: new URL('https://ship-earn-guild.vercel.app'),
   openGraph: {
     title: 'Ship & Earn Guild',
     description: 'On-demand deliveries, on-chain rewards.',
